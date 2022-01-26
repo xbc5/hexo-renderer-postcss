@@ -1,7 +1,7 @@
 {
   "name": "hexo-renderer-postcss2",
-  "version": "1.0.0",
-  "description": "A Hexo plugin for rendering PostCSS",
+  "version": "8.4.5",
+  "description": "A Hexo plugin for rendering PostCSS v8",
   "main": "index.js",
   "scripts": {
     "eslint": "eslint ."
